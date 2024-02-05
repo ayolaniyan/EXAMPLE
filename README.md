@@ -1,0 +1,2 @@
+# PING-PONG-2
+CS --30
